@@ -61,7 +61,7 @@ Love2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Lo
 
 <br>
 
-### Indie Games
+<!-- ### Indie Games
 
 Engine | Title | Genre | Platform | Time Frame | Team Size
 :-----|:------|:------|:------ |:------ |:------
@@ -71,6 +71,9 @@ undecided | unnamed | Supermarket Simulation Game | - | planned | 1
 undecided | unnamed | Turn Based-Card Game | - | planned | 1
 
 <br>
+
+-->
+
 
 ### Devlog 
 
