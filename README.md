@@ -40,16 +40,14 @@
 
 ### Application Projects
 
+-
+
 <br>
 
 ### Game Projects 
 
 Engine | Title(link to core scripts folder) | Genre | Platform | Time Frame | Team Size
 :-----|:------|:------|:------ |:------ |:------
-Unity2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Unity2D/Korean%20Class">Korean Class</a> | Educational Language | N | 11 weeks | 1
-Unity2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Unity2D/CUP%20UP">CUP: UP</a> | Casual Speed-run Type | N | 11 weeks | 1
-Godot2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Godot2D/Serve%20The%20Burger">Serve The Burger</a> | Casual Catch Falling Objects | <a href="https://margotlinne.itch.io/serve-the-burger">itch.io</a> | 3 weeks | 1
-Unity3D | <a href="https://github.com/margotlinne/SutakFanGame">unnamed</a> | RPG Turn Based | - | in progress | 1
 Unity2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Unity2D/FALLCUP">FALLCUP</a> | Hyper Casual Endless Runner | N | 2 weeks | 1
 Unity2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Unity2D/ATTACK!BUG!">ATTACK! BUG!</a> | Hyper Casual Top-down Shooting | N | 5 days | 1
 Unity2D | CAHSED | Hyper Casual Endless Runner | N | 3 days | 1
@@ -57,7 +55,13 @@ Unity2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/U
 Unity2D | Falling Bugs | Hyper Casual Avoid Falling Objects | N | 2 days | 1
 Unity2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Unity2D/Flying%20Bee">Flying Bee</a> | Casual Path Drawing | N | 4 weeks | 1
 Unity2D | Step Or Fall | Hyper Casual Endless Runner | N | 2 days | 1 
+Unity2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Unity2D/Korean%20Class">Korean Class</a> | Educational Language | N | 11 weeks | 1
+Unity2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Unity2D/CUP%20UP">CUP: UP</a> | Casual Speed-run Type | N | 11 weeks | 1
+Godot2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Godot2D/Serve%20The%20Burger">Serve The Burger</a> | Casual Catch Falling Objects | <a href="https://margotlinne.itch.io/serve-the-burger">itch.io</a> | 3 weeks | 1
 Love2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Love2D">Flip The Burger</a> | Casual Memory Match Up | <a href="https://margotlinne.itch.io/flip-the-burger">itch.io</a> | 1 week | 1
+Unity3D | <a href="https://github.com/margotlinne/SutakFanGame">unnamed</a> | RPG Turn Based | - | in progress | 1
+
+###### in order of time
 
 <br>
 
