@@ -1,14 +1,14 @@
 # Hi there 안녕하세요 👋 I'm Margot Linne!
 
-###### 각 프로젝트의 레포지토리를 비공개로 설정해 놓았으니 제 포트폴리오의 링크를 통해 오신 분들께선 [아래 프로젝트 인포 섹션](#application-projects)의 링크를 통해서 코드 및 개요를 확인해주세요 :)
+###### [아래 프로젝트 인포 섹션](#application-projects)의 링크를 통해서 각 프로젝트의 코드 및 개요를 확인해주세요 :)
 
 ### About Me
 - 🎓 Computer Engineering Graduate(2024.02, 3.65 GPA).
-- 🎮 Indie Game Developer who does coding and designing.
+- 🎮 Unity developer at Semicolons Inc and Indie Game Developer who does coding and designing.
 - 📍 Located in South Korea.
-- 🎭 margot ade is my indie game developer name, Margot Linne is my English name.
+- 🎭 Margot Linne is my English name.
 - 💼 Total part-time-job experiences: 5 years 4 months
-- 📚 Been 3 years making Unity game as an indie game developer. Currently made games with Godot and Love2D.
+- 📚 Been 3 years making Unity & Godot games and willing to make window applications.
 
 <div>
   <a href="mailto:m.linnedev@gmail.com">
