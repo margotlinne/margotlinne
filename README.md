@@ -4,7 +4,7 @@
 
 ### About Me
 - 🎓 Computer Engineering Graduate(2024.02, 3.65 GPA).
-- 🎮 Unity developer at Semicolons Inc and Indie Game Developer who does coding and designing.
+- 🎮 Unity developer at software company and Indie Game Developer who does coding and designing.
 - 📍 Located in South Korea.
 - 🎭 Margot Linne is my English name, KANG2 is my developer nickname.
 - 💼 Total part-time-job experiences: 5 years 4 months
