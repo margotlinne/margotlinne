@@ -3,7 +3,7 @@
 ###### [아래 프로젝트 인포 섹션](#application-projects)의 링크를 통해서 각 프로젝트의 코드 및 개요를 확인해주세요 :)
 
 ### About Me
-- 🎓 Computer Engineering Graduate(2024.02, 3.65 GPA).
+- 🎓 Computer Engineering Graduate(2024.02, 3.65/4.5 GPA).
 - 🎮 Unity developer at software company(2024.07-) and Indie Game Developer who does coding and designing.
 - 📍 Located in South Korea.
 - 🎭 Margot Linne is my English name, KANG2 is my developer nickname.
@@ -19,7 +19,7 @@
 - 💡 Currently working on:
   - Waiting for result of certificate of Korean Engineering Certificate(13rd June) after studying hard for 4 months at the start of this year
   - Studying for TOEIC
-  - Remaking old personal games with my imporved perspective
+  - Revisiting and remaking my old personal games with improved skills and insight
 
 <div>
   <a href="mailto:m.linnedev@gmail.com">
