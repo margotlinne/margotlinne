@@ -66,7 +66,7 @@ Godot2D | <a href="https://github.com/margotlinne/Godot2D-ServeTheBurger">Serve 
 Love2D | <a href="https://github.com/margotlinne/Love2D-CardMatchGame">Flip The Burger</a> | Casual Memory Match Up | <a href="https://margotlinne.itch.io/flip-the-burger">itch.io</a> | 1 week | Single
 Unity3D | <a href="https://github.com/margotlinne/SutakFanGame">unnamed</a> | RPG Turn Based | - | temporary suspenssion | Single
 
-###### check all games I've made <a href="https://sites.google.com/view/margotlinne">here</a>
+###### check all games I've made <a href="https://github.com/margotlinne/AllGameBy_margotlinne/blob/main/README.md">here</a>
 
 
 <br>
