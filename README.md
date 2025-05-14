@@ -8,7 +8,18 @@
 - 📍 Located in South Korea.
 - 🎭 Margot Linne is my English name, KANG2 is my developer nickname.
 - 💼 Total part-time-job experiences: 5 years 4 months
-- 📚 Been 3 years making Unity & Godot games and willing to make window applications.
+- 📚 Been 4 years making Unity & Godot games(self-taught) including personal projects and company projects, such as:
+  - 🏢 Mobile game development and publishing (Android/iOS)
+  - 🏢 Real-time multiplayer implementation with Node.js and Socket.io on WebGL platform
+  - 🏢 XR content development and publishing on Meta Horizon Worlds
+  - Participated in 2 game jams; one solo project ranked Top 101 in Innovation and 338th overall out of 1,493 entries
+  - JSON-based game save/load system implementation
+  - Developed a simple card-matching game using the Love2D framework (Lua) without a game engine
+  - Developed multiple solo projects from scratch (design, programming, UI, sound) covering end-to-end development
+- 💡 Currently working on:
+  - Waiting for result of certificate of Korean Engineering Certificate(13rd June) after studying hard for 4 months at the start of this year
+  - Studying for TOEIC
+  - Remaking old personal games with my imporved perspective
 
 <div>
   <a href="mailto:m.linnedev@gmail.com">
@@ -20,8 +31,11 @@
   <a href="https://www.youtube.com/channel/UCVz1upC0vpTMcWGpHT4CGBw">
     <img alt="Static Badge" src="https://img.shields.io/badge/Channel-0?style=for-the-badge&logo=YouTube&color=red">
   </a>
-  <a href="https://margotlinne.github.io">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-0?style=for-the-badge&color=yellow">
+  <a href="https://sites.google.com/view/migangjung-portfolio4395">
+    <img alt="Static Badge" src="https://img.shields.io/badge/ENG_Portfolio-0?style=for-the-badge&logo=Blog&color=yellow">
+  </a>
+  <a href="https://sites.google.com/view/blogonemorestep">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Blog-0?style=for-the-badge&logo=Blog&color=black">
   </a>
 </div> 
 
@@ -36,32 +50,24 @@
 
 ---
 
-<a href="">check source codes</a>
-
 ### Application Projects
 
---
+Coming Soon!
 
 <br>
 
 ### Game Projects 
 
-Engine | Title(link to core scripts folder) | Genre | Platform | Time Frame | Team Size
+Engine or Framework | Title(link to source code) | Genre | Platform | Time Frame | Team Size
 :-----|:------|:------|:------ |:------ |:------
-Unity2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Unity2D/FALLCUP">FALLCUP</a> | Hyper Casual Endless Runner | N | 2 weeks | 1
-Unity2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Unity2D/ATTACK!BUG!">ATTACK! BUG!</a> | Hyper Casual Top-down Shooting | N | 5 days | 1
-Unity2D | CAHSED | Hyper Casual Endless Runner | N | 3 days | 1
-Unity2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Unity2D/Mr%20Flowers%20Journey">Mr Flower's Journey for lost Seeds</a> | Casual Platformer | N | 5 weeks | 1
-Unity2D | Falling Bugs | Hyper Casual Avoid Falling Objects | N | 2 days | 1
-Unity2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Unity2D/Flying%20Bee">Flying Bee</a> | Casual Path Drawing | N | 4 weeks | 1
-Unity2D | Step Or Fall | Hyper Casual Endless Runner | N | 2 days | 1 
-Unity2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Unity2D/Korean%20Class">Korean Class</a> | Educational Language | N | 11 weeks | 1
-Unity2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Unity2D/CUP%20UP">CUP: UP</a> | Casual Speed-run Type | N | 11 weeks | 1
-Godot2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Godot2D/Serve%20The%20Burger">Serve The Burger</a> | Casual Catch Falling Objects | <a href="https://margotlinne.itch.io/serve-the-burger">itch.io</a> | 3 weeks | 1
-Love2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Love2D">Flip The Burger</a> | Casual Memory Match Up | <a href="https://margotlinne.itch.io/flip-the-burger">itch.io</a> | 1 week | 1
-Unity3D | <a href="https://github.com/margotlinne/SutakFanGame">unnamed</a> | RPG Turn Based | - | in progress | 1
+Unity2D | <a href="https://github.com/margotlinne/GMTK_project">EmoScale</a> | Casual Story Game (GameJam) | <a href="https://margotlinne.itch.io/emoscale">itch.io</a> | 4 days (2024) | 7
+Godot2D | Salary Lupin | Time-limited Game (GameJam) | <a href = "https://margotlinne.itch.io/salary-lupin">itch.io</a> | 1 week (2024) | Single
+Godot2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Godot2D/Serve%20The%20Burger">Serve The Burger</a> | Casual Catch Falling Objects | <a href="https://margotlinne.itch.io/serve-the-burger">itch.io</a> | 3 weeks | Single
+Love2D | <a href="https://github.com/margotlinne/Projects-SouceCode/tree/main/Love2D">Flip The Burger</a> | Casual Memory Match Up | <a href="https://margotlinne.itch.io/flip-the-burger">itch.io</a> | 1 week | Single
+Unity3D | <a href="https://github.com/margotlinne/SutakFanGame">unnamed</a> | RPG Turn Based | - | temporary suspenssion | Single
 
-###### in order of time
+###### check all games I've made <a href="https://sites.google.com/view/margotlinne">here</a>
+
 
 <br>
 
