@@ -8,7 +8,7 @@
 - 📍 Located in South Korea.
 - 🎭 Margot Linne is my English name, KANG2 is my developer nickname.
 - 💼 Total part-time-job experiences: 5 years 4 months
-- 📚 Been 4 years making Unity & Godot games(self-taught) including personal projects and company projects, such as:
+- 📚 4 years of game development experiences —  Unity & Godot games(self-taught) including personal projects and company projects, such as:
   - 🏢 Mobile game development and publishing (Android/iOS)
   - 🏢 Real-time multiplayer implementation with Node.js and Socket.io on WebGL platform
   - 🏢 XR content development and publishing on Meta Horizon Worlds
