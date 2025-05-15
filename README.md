@@ -5,7 +5,7 @@
 ### About Me
 - 🎓 Computer Engineering Graduate(2024.02, 3.65/4.5 GPA).
 - 🎮 Unity developer at software company(2024.07-) and Indie Game Developer who does coding and designing.
-- 🛠 I enjoy designing systems with clean scripts, and end-to-end flow.
+- 🛠 I enjoy designing systems with clean scripts and end-to-end flow, and I’m steadily growing as a developer who values structured thinking and delivers reliable results.
 - 📍 Located in South Korea.
 - 🎭 Margot Linne is my English name, KANG2 is my developer nickname.
 - 💼 Total part-time-job experiences: 5 years 4 months
