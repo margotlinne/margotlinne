@@ -7,7 +7,7 @@
 - 🎮 Unity developer at software company(2024.07-) and Indie Game Developer who does coding and designing.
 - 🛠 I enjoy designing systems with clean scripts and end-to-end flow, and I’m steadily growing as a developer who values structured thinking and delivers reliable results.
 - 📍 Located in South Korea.
-- 🎭 Margot Linne is my English name, KANG2 is my developer nickname.
+- 🎭 Margot Linne is my English name.
 - 💼 Total part-time-job experiences: 5 years 4 months
 - 📚 4 years of game development experiences —  Unity & Godot games(self-taught) including personal projects and company projects, such as:
   - 🏢 Mobile game development and publishing (Android/iOS)
