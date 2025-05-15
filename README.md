@@ -1,7 +1,5 @@
 # Hi there 안녕하세요 👋 I'm Margot Linne!
 
-###### [아래 프로젝트 인포 섹션](#application-projects)의 링크를 통해서 각 프로젝트의 코드 및 개요를 확인해주세요 :)
-
 ### About Me
 - 🎓 Computer Engineering Graduate(2024.02, 3.65/4.5 GPA).
 - 🎮 Unity developer at software company(2024.07-) and Indie Game Developer who does coding and designing.
