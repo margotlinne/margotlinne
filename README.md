@@ -18,7 +18,7 @@
 - 💡 Currently working on:
   - Waiting for result of certificate of Korean Engineering Certificate(13rd June) after studying hard for 4 months at the start of this year
   - Studying for TOEIC
-  - Revisiting and remaking my old personal games with improved skills and insight
+  - Making Unity3D fan game
 
 <div>
   <a href="mailto:m.linnedev@gmail.com">
@@ -57,13 +57,19 @@ Coming Soon!
 
 ### Game Projects 
 
+#### Main Project
+
+Engine or Framework | Title(link to source code) | Genre | Platform | Time Frame | Team Size
+:-----|:------|:------|:------ |:------ |:------
+Unity3D | <a href="https://github.com/margotlinne/SutakFanGame">unnamed</a> | RPG Turn Based | - | In Progress | Single
+
+#### Side Project
+
 Engine or Framework | Title(link to source code) | Genre | Platform | Time Frame | Team Size
 :-----|:------|:------|:------ |:------ |:------
 Unity2D | <a href="https://github.com/margotlinne/GMTK_project">EmoScale</a> | Casual Story Game (GameJam) | <a href="https://margotlinne.itch.io/emoscale">itch.io</a> | 4 days (2024) | 7
 Godot2D | <a href="https://github.com/margotlinne/Gdoto2D-BrackeyGameJam">Salary Lupin</a> | Time-limited Game (GameJam) | <a href = "https://margotlinne.itch.io/salary-lupin">itch.io</a> | 1 week (2024) | Single
-Godot2D | <a href="https://github.com/margotlinne/Godot2D-ServeTheBurger">Serve The Burger</a> | Casual Catch Falling Objects | <a href="https://margotlinne.itch.io/serve-the-burger">itch.io</a> | 3 weeks | Single
 Love2D | <a href="https://github.com/margotlinne/Love2D-CardMatchGame">Flip The Burger</a> | Casual Memory Match Up | <a href="https://margotlinne.itch.io/flip-the-burger">itch.io</a> | 1 week | Single
-Unity3D | <a href="https://github.com/margotlinne/SutakFanGame">unnamed</a> | RPG Turn Based | - | temporary suspenssion | Single
 
 ###### check all games I've made <a href="https://github.com/margotlinne/AllGameBy_margotlinne/blob/main/README.md">here</a>
 
