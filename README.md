@@ -1,4 +1,6 @@
-# Hi there 안녕하세요 👋 I'm Margot Linne!
+# Hi there 👋 I'm Margot Linne! 
+
+##### <a href="https://github.com/margotlinne/margotlinne/blob/main/README_KOR.md">한글 버전</a>
 
 ### About Me
 - 🎓 Computer Engineering Graduate(2024.02, 3.65/4.5 GPA).
