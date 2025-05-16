@@ -69,7 +69,7 @@ Engine or Framework | Title(link to source code) | Genre | Platform | Time Frame
 :-----|:------|:------|:------ |:------ |:------
 Unity2D | <a href="https://github.com/margotlinne/GMTK_project">EmoScale</a> | Casual Story Game (GameJam) | <a href="https://margotlinne.itch.io/emoscale">itch.io</a> | 4 days (2024) | 7
 Godot2D | <a href="https://github.com/margotlinne/Gdoto2D-BrackeyGameJam">Salary Lupin</a> | Time-limited Game (GameJam) | <a href = "https://margotlinne.itch.io/salary-lupin">itch.io</a> | 1 week (2024) | Single
-Love2D | <a href="https://github.com/margotlinne/Love2D-CardMatchGame">Flip The Burger</a> | Casual Memory Match Up | <a href="https://margotlinne.itch.io/flip-the-burger">itch.io</a> | 1 week | Single
+Love2D | <a href="https://github.com/margotlinne/Love2D-CardMatchGame">Flip The Burger</a> | Casual Memory Match Up | <a href="https://margotlinne.itch.io/flip-the-burger">itch.io</a> | 1 week (2024) | Single
 
 ###### check all games I've made <a href="https://github.com/margotlinne/AllGameBy_margotlinne/blob/main/README.md">here</a>
 
