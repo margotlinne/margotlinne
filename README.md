@@ -18,7 +18,7 @@
 - 💡 Currently working on:
   - Waiting for result of certificate of Korean Engineering Certificate(13rd June) after studying hard for 4 months at the start of this year
   - Studying for TOEIC
-  - Making Unity3D fan game
+  - Making turn-based Unity3D game
 
 <div>
   <a href="mailto:m.linnedev@gmail.com">
