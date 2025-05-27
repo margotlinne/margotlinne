@@ -15,7 +15,7 @@
   
 - 💼 총 파트타임 경력: 5년 4개월
   
-- 📚 4년간 Unity와 Godot(독학)을 활용한 회사 및 개인 프로젝트 개발 경험
+- 📚 4년간 Unity와 Godot(모두 독학)을 활용한 회사 및 개인 프로젝트 개발 경험
   
   - 🏢 모바일 게임 개발 및 출시(Android/iOS)
   
@@ -70,7 +70,10 @@
 
 ### Application Projects
 
-Coming Soon!
+Tools & Framework | Title(link to source code) | Platform | Type | Time Frame | Team Size
+:-----|:------|:------|:------ |:------ |:------
+-|-| PC, Web | 교육용 |-| 1
+-|-| PC | 시뮬레이터 |-| 1
 
 <br>
 
@@ -80,15 +83,15 @@ Coming Soon!
 
 Engine or Framework | Title(link to source code) | Genre | Platform | Time Frame | Team Size
 :-----|:------|:------|:------ |:------ |:------
-Unity3D | <a href="https://github.com/margotlinne/SutakFanGame">unnamed</a> | RPG Turn Based | - | In Progress | Single
+Unity3D | <a href="https://github.com/margotlinne/SutakFanGame">unnamed</a> | RPG Turn Based | WebGL | - | 1
 
 #### Side Project
 
 Engine or Framework | Title(link to source code) | Genre | Platform | Time Frame | Team Size
 :-----|:------|:------|:------ |:------ |:------
-Unity2D | <a href="https://github.com/margotlinne/GMTK_project">EmoScale</a> | Casual Story Game (GameJam) | <a href="https://margotlinne.itch.io/emoscale">itch.io</a> | 4 days (2024) | 7
-Godot2D | <a href="https://github.com/margotlinne/Gdoto2D-BrackeyGameJam">Salary Lupin</a> | Time-limited Game (GameJam) | <a href = "https://margotlinne.itch.io/salary-lupin">itch.io</a> | 1 week (2024) | Single
-Love2D | <a href="https://github.com/margotlinne/Love2D-CardMatchGame">Flip The Burger</a> | Casual Memory Match Up | <a href="https://margotlinne.itch.io/flip-the-burger">itch.io</a> | 1 week (2024) | Single
+Unity2D | <a href="https://github.com/margotlinne/GMTK_project">EmoScale</a> | Casual Story Game (GameJam) | WebGL (<a href="https://margotlinne.itch.io/emoscale">itch.io</a>) | 4 days (2024) | 7
+Godot2D | <a href="https://github.com/margotlinne/Gdoto2D-BrackeyGameJam">Salary Lupin</a> | Time-limited Game (GameJam) | WebGL (<a href = "https://margotlinne.itch.io/salary-lupin">itch.io</a>) | 1 week (2024) | 1
+Love2D | <a href="https://github.com/margotlinne/Love2D-CardMatchGame">Flip The Burger</a> | Casual Memory Match Up | PC (<a href="https://margotlinne.itch.io/flip-the-burger">itch.io</a>) | 1 week (2024) | 1
 
 ###### 제가 제작한 모든 게임을 <a href="https://github.com/margotlinne/AllGameBy_margotlinne/blob/main/README.md">여기</a>서 확인하세요.
 
