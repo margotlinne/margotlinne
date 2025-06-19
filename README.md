@@ -47,10 +47,7 @@
   <a href="https://www.youtube.com/channel/UCVz1upC0vpTMcWGpHT4CGBw">
     <img alt="Static Badge" src="https://img.shields.io/badge/Channel-0?style=for-the-badge&logo=YouTube&color=red">
   </a>
-  <a href="https://sites.google.com/view/migangjung-portfolio4395">
-    <img alt="Static Badge" src="https://img.shields.io/badge/ENG_Portfolio-0?style=for-the-badge&logo=Blog&color=yellow">
-  </a>
-  <a href="https://sites.google.com/view/blogonemorestep">
+  <a href="https://sites.google.com/view/blog-migangjung">
     <img alt="Static Badge" src="https://img.shields.io/badge/Blog-0?style=for-the-badge&logo=Blog&color=black">
   </a>
 </div> 
