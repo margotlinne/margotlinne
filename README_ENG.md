@@ -40,11 +40,11 @@ Unity3D | <a href="https://github.com/margotlinne/SutakFanGame">unnamed</a> | RP
 
 Engine or Framework | Title(link to source code) | Genre | Platform | Time Frame | Team Size
 :-----|:------|:------|:------ |:------ |:------
-Unity3D | <a href="https://github.com/margotlinne/GMTK2025">The Loop I Made</a> | Story Game (GMTK GameJam) | Window (<a href="https://margotlinne.itch.io/the-loop-i-made">itch.io</a>) | 4 days (2025) | 5
-Unity2D | <a href="https://github.com/margotlinne/GMTK_project">EmoScale</a> | Story Game (GMTK GameJam) | WebGL (<a href="https://margotlinne.itch.io/emoscale">itch.io</a>) | 4 days (2024) | 7
-Godot2D | <a href="https://github.com/margotlinne/Godot2D-BrackeyGameJam">Salary Lupin</a> | Time-limited Game (Brackey GameJam) | WebGL (<a href = "https://margotlinne.itch.io/salary-lupin">itch.io</a>) | 1 week (2024) | 1
-Godot2D | <a href="https://github.com/margotlinne/Godot2D-ServeTheBurger">Serve The Burger</a> | Stacking up items | WebGL (<a href = "https://margotlinne.itch.io/serve-the-burger">itch.io</a>) | 4 weeks (2024) | 1
-Love2D | <a href="https://github.com/margotlinne/Love2D-CardMatchGame">Flip The Burger</a> | Casual Memory Match Up | PC (<a href="https://margotlinne.itch.io/flip-the-burger">itch.io</a>) | 1 week (2024) | 1
+Unity3D | <a href="https://github.com/margotlinne/GMTK2025">The Loop I Made</a> | Story Game (GMTK GameJam) | Window | 4 days (2025) | 5
+Unity2D | <a href="https://github.com/margotlinne/GMTK_project">EmoScale</a> | Story Game (GMTK GameJam) | WebGL | 4 days (2024) | 7
+Godot2D | <a href="https://github.com/margotlinne/Godot2D-BrackeyGameJam">Salary Lupin</a> | Time-limited Game (Brackey GameJam) | WebGL | 1 week (2024) | 1
+Godot2D | <a href="https://github.com/margotlinne/Godot2D-ServeTheBurger">Serve The Burger</a> | Stacking up items | WebGL | 4 weeks (2024) | 1
+Love2D | <a href="https://github.com/margotlinne/Love2D-CardMatchGame">Flip The Burger</a> | Casual Memory Match Up | Window | 1 week (2024) | 1
 
 
 ###### check all games I've made <a href="https://github.com/margotlinne/margotlinne/blob/main/AllGamesByMargotLinne.md">here</a>
