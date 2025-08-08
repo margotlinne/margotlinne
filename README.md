@@ -43,10 +43,10 @@ Unity3D | <a href="https://github.com/margotlinne/SutakFanGame">unnamed</a> | RP
 
 Engine or Framework | Title(link to source code) | Genre | Platform | Time Frame | Team Size
 :-----|:------|:------|:------ |:------ |:------
-Unity3D | <a href="https://github.com/margotlinne/GMTK2025">The Loop I Made</a> | 스토리 게임 (GMTK GameJam) | Window (<a href="https://margotlinne.itch.io/the-loop-i-made">itch.io</a>) | 4일 (2025) | 5
-Unity2D | <a href="https://github.com/margotlinne/GMTK_project">EmoScale</a> | 스토리 게임 (GMTK GameJam) | WebGL (<a href="https://margotlinne.itch.io/emoscale">itch.io</a>) | 4일 (2024) | 7
-Godot2D | <a href="https://github.com/margotlinne/Godot2D-BrackeyGameJam">Salary Lupin</a> | 타임 리미티드 게임 (Brackey GameJam) | WebGL (<a href = "https://margotlinne.itch.io/salary-lupin">itch.io</a>) | 1주 (2024) | 1
-Godot2D | <a href="https://github.com/margotlinne/Godot2D-ServeTheBurger">Serve The Burger</a> | 아이템 쌓기 게임 | WebGL (<a href = "https://margotlinne.itch.io/serve-the-burger">itch.io</a>) | 4주 (2024) | 1
-Love2D | <a href="https://github.com/margotlinne/Love2D-CardMatchGame">Flip The Burger</a> | 캐쥬얼카드 매칭 게임 | Window (<a href="https://margotlinne.itch.io/flip-the-burger">itch.io</a>) | 1주 (2024) | 1
+Unity3D | <a href="https://github.com/margotlinne/GMTK2025">The Loop I Made</a> | 스토리 게임 (GMTK GameJam) | Window | 4일 (2025) | 5
+Unity2D | <a href="https://github.com/margotlinne/GMTK_project">EmoScale</a> | 스토리 게임 (GMTK GameJam) | WebGL | 4일 (2024) | 7
+Godot2D | <a href="https://github.com/margotlinne/Godot2D-BrackeyGameJam">Salary Lupin</a> | 타임 리미티드 게임 (Brackey GameJam) | WebGL | 1주 (2024) | 1
+Godot2D | <a href="https://github.com/margotlinne/Godot2D-ServeTheBurger">Serve The Burger</a> | 아이템 쌓기 게임 | WebGL | 4주 (2024) | 1
+Love2D | <a href="https://github.com/margotlinne/Love2D-CardMatchGame">Flip The Burger</a> | 캐쥬얼카드 매칭 게임 | Window | 1주 (2024) | 1
 
 ###### 제가 제작한 모든 게임을 <a href="https://github.com/margotlinne/margotlinne/blob/main/AllGamesByMargotLinne.md">여기</a>서 확인하세요.
