@@ -23,3 +23,5 @@
 </div> 
 
 ###### <a href="https://github.com/margotlinne/margotlinne/blob/main/AllGamesByMargotLinne.md">All Games By margotlinne</a>
+
+** I DON'T do any team work for side project anymore because of so many irresponsible poeple. I ALWAYS work alone now.**
