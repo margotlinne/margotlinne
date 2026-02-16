@@ -1,5 +1,7 @@
 
-<img src="https://raw.githubusercontent.com/margotlinne/SteamNow/main/banner.png" alt="Banner" width="40%">
+<a href="https://github.com/margotlinne/SteamNow">
+  <img src="https://raw.githubusercontent.com/margotlinne/SteamNow/main/banner.png" alt="Banner" width="40%">
+</a>
 
 ![DAVE THE DIVER](https://cdn.akamai.steamstatic.com/steam/apps/1868140/header.jpg)  
 
