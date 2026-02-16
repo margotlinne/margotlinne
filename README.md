@@ -2,22 +2,22 @@
 <a href="https://github.com/margotlinne/SteamNow">
   <img src="https://raw.githubusercontent.com/margotlinne/SteamNow/main/banner.png" alt="Banner" width="50%">
 </a>
-<br>
-<table style="border:none">
-<tr>
-<td valign="top"><b>RECENTLY PLAYED</b>
 
-<img src="https://cdn.akamai.steamstatic.com/steam/apps/1868140/header.jpg" width="400"><br>
-<b>『DAVE THE DIVER』</b><br>
-**Playtime**: 15h 44m<br>
-**Last Played**: 2026-02-15<br>
-**Achievements**: ▓▓▓▓▓░░░░░ 25/43</td>
-<td valign="top"><b>MOST PLAYED</b>
+## RECENTLY PLAYED
 
-<img src="https://cdn.akamai.steamstatic.com/steam/apps/1086940/header.jpg" width="400"><br>
-<b>『Baldur's Gate 3』</b><br>
-**Playtime**: 472h 27m<br>
-**Last Played**: 2026-02-13<br>
-**Achievements**: ▓▓▓▓▓▓▓▓░░ 48/54</td>
-</tr>
-</table>
+<img align="left" width="400" src="https://cdn.akamai.steamstatic.com/steam/apps/1868140/header.jpg" style="margin-right:1em;">
+<b>『DAVE THE DIVER』</b><br><br>
+<b>Playtime</b>: 17h 52m<br>
+<b>Last Played</b>: 2026-02-16<br>
+<b>Achievements</b>: ▓▓▓▓▓▓░░░░ 29/43<br><br>
+<br style="clear: both;"><br>
+
+
+## MOST PLAYED
+
+<img align="left" width="400" src="https://cdn.akamai.steamstatic.com/steam/apps/1086940/header.jpg" style="margin-right:1em;">
+<b>『Baldur's Gate 3』</b><br><br>
+<b>Playtime</b>: 472h 27m<br>
+<b>Last Played</b>: 2026-02-13<br>
+<b>Achievements</b>: ▓▓▓▓▓▓▓▓░░ 48/54<br><br>
+<br style="clear: both;"><br>
