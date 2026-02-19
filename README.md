@@ -5,11 +5,11 @@
 
 ## RECENTLY PLAYED
 
-<img align="left" width="400" src="https://cdn.akamai.steamstatic.com/steam/apps/2592160/header.jpg" style="margin-right:1em;">
-<b>『Dispatch』</b><br><br>
-<b>Playtime</b>: 11h 28m<br>
+<img align="left" width="400" src="https://cdn.akamai.steamstatic.com/steam/apps/1868140/header.jpg" style="margin-right:1em;">
+<b>『DAVE THE DIVER』</b><br><br>
+<b>Playtime</b>: 25h 47m<br>
 <b>Last Played</b>: 2026-02-18<br>
-<b>Achievements</b>: ▓▓▓▓▓░░░░░ 20/36<br><br>
+<b>Achievements</b>: ▓▓▓▓▓▓▓░░░ 32/43<br><br>
 <br style="clear: both;"><br>
 
 
