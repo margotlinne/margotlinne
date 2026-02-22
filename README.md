@@ -5,11 +5,11 @@
 
 ## RECENTLY PLAYED
 
-<img align="left" width="400" src="https://cdn.akamai.steamstatic.com/steam/apps/1868140/header.jpg" style="margin-right:1em;">
-<b>『DAVE THE DIVER』</b><br><br>
-<b>Playtime</b>: 25h 47m<br>
-<b>Last Played</b>: 2026-02-18<br>
-<b>Achievements</b>: ▓▓▓▓▓▓▓░░░ 32/43<br><br>
+<img align="left" width="400" src="https://cdn.akamai.steamstatic.com/steam/apps/1771300/header.jpg" style="margin-right:1em;">
+<b>『Kingdom Come: Deliverance II』</b><br><br>
+<b>Playtime</b>: 80h 19m<br>
+<b>Last Played</b>: 2026-02-21<br>
+<b>Achievements</b>: ▓▓▓░░░░░░░ 26/83<br><br>
 <br style="clear: both;"><br>
 
 
