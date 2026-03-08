@@ -5,11 +5,11 @@
 
 ## RECENTLY PLAYED
 
-<img align="left" width="400" src="https://cdn.akamai.steamstatic.com/steam/apps/435150/header.jpg" style="margin-right:1em;">
-<b>『Divinity: Original Sin 2』</b><br><br>
-<b>Playtime</b>: 141h 49m<br>
-<b>Last Played</b>: 2026-03-01<br>
-<b>Achievements</b>: ▓▓▓▓▓░░░░░ 58/97<br><br>
+<img align="left" width="400" src="https://cdn.akamai.steamstatic.com/steam/apps/1771300/header.jpg" style="margin-right:1em;">
+<b>『Kingdom Come: Deliverance II』</b><br><br>
+<b>Playtime</b>: 81h 1m<br>
+<b>Last Played</b>: 2026-03-07<br>
+<b>Achievements</b>: ▓▓▓░░░░░░░ 26/83<br><br>
 <br style="clear: both;"><br>
 
 
