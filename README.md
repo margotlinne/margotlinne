@@ -5,11 +5,11 @@
 
 ## RECENTLY PLAYED
 
-<img align="left" width="400" src="https://cdn.akamai.steamstatic.com/steam/apps/1771300/header.jpg" style="margin-right:1em;">
-<b>『Kingdom Come: Deliverance II』</b><br><br>
-<b>Playtime</b>: 81h 1m<br>
-<b>Last Played</b>: 2026-03-07<br>
-<b>Achievements</b>: ▓▓▓░░░░░░░ 26/83<br><br>
+<img align="left" width="400" src="https://cdn.akamai.steamstatic.com/steam/apps/413150/header.jpg" style="margin-right:1em;">
+<b>『Stardew Valley』</b><br><br>
+<b>Playtime</b>: 254h 44m<br>
+<b>Last Played</b>: 2026-03-08<br>
+<b>Achievements</b>: ▓▓▓▓▓░░░░░ 27/49<br><br>
 <br style="clear: both;"><br>
 
 
