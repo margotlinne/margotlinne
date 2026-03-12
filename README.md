@@ -7,8 +7,8 @@
 
 <img align="left" width="400" src="https://cdn.akamai.steamstatic.com/steam/apps/413150/header.jpg" style="margin-right:1em;">
 <b>『Stardew Valley』</b><br><br>
-<b>Playtime</b>: 276h 28m<br>
-<b>Last Played</b>: 2026-03-11<br>
+<b>Playtime</b>: 290h 14m<br>
+<b>Last Played</b>: 2026-03-12<br>
 <b>Achievements</b>: ▓▓▓▓▓░░░░░ 28/49<br><br>
 <br style="clear: both;"><br>
 
