@@ -7,9 +7,9 @@
 
 <img align="left" width="400" src="https://cdn.akamai.steamstatic.com/steam/apps/413150/header.jpg" style="margin-right:1em;">
 <b>『Stardew Valley』</b><br><br>
-<b>Playtime</b>: 301h 57m<br>
-<b>Last Played</b>: 2026-03-13<br>
-<b>Achievements</b>: ▓▓▓▓▓░░░░░ 28/49<br><br>
+<b>Playtime</b>: 390h 39m<br>
+<b>Last Played</b>: 2026-05-07<br>
+<b>Achievements</b>: ▓▓▓▓▓▓▓▓▓▓ 49/49<br><br>
 <br style="clear: both;"><br>
 
 
@@ -17,7 +17,7 @@
 
 <img align="left" width="400" src="https://cdn.akamai.steamstatic.com/steam/apps/1086940/header.jpg" style="margin-right:1em;">
 <b>『Baldur's Gate 3』</b><br><br>
-<b>Playtime</b>: 473h 4m<br>
-<b>Last Played</b>: 2026-02-27<br>
+<b>Playtime</b>: 473h 29m<br>
+<b>Last Played</b>: 2026-04-19<br>
 <b>Achievements</b>: ▓▓▓▓▓▓▓▓░░ 48/54<br><br>
 <br style="clear: both;"><br>
