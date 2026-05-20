@@ -5,11 +5,11 @@
 
 ## RECENTLY PLAYED
 
-<img align="left" width="400" src="https://cdn.akamai.steamstatic.com/steam/apps/413150/header.jpg" style="margin-right:1em;">
-<b>『Stardew Valley』</b><br><br>
-<b>Playtime</b>: 390h 39m<br>
-<b>Last Played</b>: 2026-05-07<br>
-<b>Achievements</b>: ▓▓▓▓▓▓▓▓▓▓ 49/49<br><br>
+<img align="left" width="400" src="https://cdn.akamai.steamstatic.com/steam/apps/264710/header.jpg" style="margin-right:1em;">
+<b>『Subnautica』</b><br><br>
+<b>Playtime</b>: 17h 19m<br>
+<b>Last Played</b>: 2026-05-20<br>
+<b>Achievements</b>: ▓▓▓▓░░░░░░ 7/17<br><br>
 <br style="clear: both;"><br>
 
 
