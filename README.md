@@ -5,11 +5,11 @@
 
 ## RECENTLY PLAYED
 
-<img align="left" width="400" src="https://cdn.akamai.steamstatic.com/steam/apps/264710/header.jpg" style="margin-right:1em;">
-<b>『Subnautica』</b><br><br>
-<b>Playtime</b>: 17h 19m<br>
-<b>Last Played</b>: 2026-05-20<br>
-<b>Achievements</b>: ▓▓▓▓░░░░░░ 7/17<br><br>
+<img align="left" width="400" src="https://cdn.akamai.steamstatic.com/steam/apps/1962700/header.jpg" style="margin-right:1em;">
+<b>『Subnautica 2』</b><br><br>
+<b>Playtime</b>: 21h 40m<br>
+<b>Last Played</b>: 2026-05-31<br>
+<b>Achievements</b>:  0/0<br><br>
 <br style="clear: both;"><br>
 
 
