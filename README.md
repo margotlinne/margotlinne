@@ -5,11 +5,11 @@
 
 ## RECENTLY PLAYED
 
-<img align="left" width="400" src="https://cdn.akamai.steamstatic.com/steam/apps/1962700/header.jpg" style="margin-right:1em;">
-<b>『Subnautica 2』</b><br><br>
-<b>Playtime</b>: 21h 40m<br>
-<b>Last Played</b>: 2026-05-31<br>
-<b>Achievements</b>:  0/0<br><br>
+<img align="left" width="400" src="https://cdn.akamai.steamstatic.com/steam/apps/435150/header.jpg" style="margin-right:1em;">
+<b>『Divinity: Original Sin 2』</b><br><br>
+<b>Playtime</b>: 208h 49m<br>
+<b>Last Played</b>: 2026-10-28<br>
+<b>Achievements</b>: ▓▓▓▓▓▓░░░░ 64/97<br><br>
 <br style="clear: both;"><br>
 
 
